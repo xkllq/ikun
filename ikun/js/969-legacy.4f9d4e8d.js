@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkhmtt81"]=self["webpackChunkhmtt81"]||[]).push([[969],{73969:function(e,n,t){t.r(n),t.d(n,{default:function(){return f}});var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("我是问答")])},l=[],r={name:"ask-index"},s=r,a=t(1001),c=(0,a.Z)(s,u,l,!1,null,null,null),f=c.exports}}]);

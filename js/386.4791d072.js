@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkhmtt81"]=self["webpackChunkhmtt81"]||[]).push([[386],{9386:function(e,n,t){t.r(n),t.d(n,{default:function(){return f}});var u=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v("视频页")])},l=[],r={name:"home-index"},c=r,s=t(1001),a=(0,s.Z)(c,u,l,!1,null,null,null),f=a.exports}}]);
